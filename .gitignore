@@ -1,0 +1,42 @@
+# === macOS file ===
+.DS_Store
+
+# === C/C++ build file ===
+build/
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# === Python Cache file ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === ROS 2 Workspace file ===
+log/
+install/
+build/
+devel/
+*.launch.py~
+*.launch~
+*.rviz
+*.db
+
+# === Visual Studio Code setting ===
+.vscode/
+
+# === Jupyter Notebook ===
+.ipynb_checkpoints/
+
+# === PDF / LOG ===
+*.aux
+*.log
+*.toc
+*.pdf
+*.out
+
+# === 通用暫存file ===
+*~
