@@ -38,5 +38,18 @@ devel/
 *.pdf
 *.out
 
-# === 通用暫存file ===
+# === Other files ===
 *~
+
+/ENPM690_Robot_Learning
+/ENPM633_ML
+/ENPM640_Rehab_Robotics
+/ENPM645_HRI
+/ENPM661_Planning
+/ENPM662_Robot_Modeling
+/ENPM663_Manufacturing_Robots
+/ENPM667_Control
+/ENPM673_Perception
+/ENPM690_Robot_Learning
+/ENPM702_Programming
+
