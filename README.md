@@ -12,7 +12,7 @@ This repository contains my coursework, homework, and projects for the Robotics 
 - **ENPM633** – Intro to Machine Learning
 - **ENPM640** – Rehabilitation Robotics
 - **ENPM645** – Human-Robot Interaction
-- **ENPM663** – Building a Manufacturing Robotic Software System (Spring 2025)
-- **ENPM690** – Robot Learning (Spring 2025)
+- **ENPM663** – Building a Manufacturing Robotic Software System
+- **ENPM690** – Robot Learning
 
 Each folder will contain homeworks, code, and project files as I continue to organize and upload them.
